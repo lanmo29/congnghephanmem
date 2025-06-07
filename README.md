@@ -26,4 +26,4 @@ Trong thời buổi công nghệ phát triển với tốc độ chóng mặt, n
 ## Hướng dẫn cài đặt
 1. Clone dự án:
    ```bash
-   git clone https://github.com/lanmo29/khoa-hoc-du-lieu.git
+   git clone https://github.com/lanmo29/congnghephanmem
